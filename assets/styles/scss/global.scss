@@ -1,0 +1,19 @@
+@import 'variables';
+@import'navbar';
+@import 'main';
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: $grey-light;
+    font-family: 'Lexend Deca', sans-serif;
+}
